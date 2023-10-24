@@ -25,7 +25,7 @@ Analyst
 </div>
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 데이터를 연구하고 최적화하는 개발자 </h2>  <br>
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 데이터를 연구하고 최적화하는 개발자 </h3>  <br>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> python을 이용해 개선점을 찾고 좀 더 나은 세상을 만들고 싶은 개발자 김선정 입니다. </div> <br>
 </div>
 
